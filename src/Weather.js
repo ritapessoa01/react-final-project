@@ -23,7 +23,7 @@ export default function Weather() {
         <div className="col-6">
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
-            alt="weather image"
+            alt="current weather emoji"
           />
           <div className="current-weather">
             <span className="current-temperature">25</span>{" "}
