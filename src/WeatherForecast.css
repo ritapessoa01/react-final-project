@@ -1,0 +1,36 @@
+.WeatherForecast {
+  text-align: center;
+  color: #793542;
+  font-weight: 700;
+  font-size: 18px;
+  position: relative;
+  top: -180px;
+}
+
+.WeatherForecast .row {
+  column-gap: 15px;
+}
+
+.WeatherForecast .col {
+  border-radius: 7px;
+  background-color: #b7485e58;
+  padding: 8px;
+}
+
+.WeatherForecast-temperatures span {
+  margin: 4px;
+}
+
+.WeatherForecast-min-temp {
+  color: #803040c8;
+}
+
+.WeatherForecast-icon {
+  text-align: center;
+}
+
+.WeatherForecast-icon img {
+  display: inline-block;
+  width: 80px;
+  position: static;
+}
